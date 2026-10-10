@@ -1,4 +1,4 @@
 # Python Beginner Projects
-my first python projects
-## projects
+My first Python projects
+## Projects
 - Password Generator: makes a random password.
