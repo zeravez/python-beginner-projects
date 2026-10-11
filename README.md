@@ -3,5 +3,5 @@ My first Python projects.
 ## Projects
 - Password Generator: makes a random password.
 - To-Do List: add, view, and delete tasks.
-- Calculator: add, substract, multiply, and divide.
-- Quiz App: answer questions and your score.
+- Calculator: add, subtract, multiply, and divide.
+- Quiz App: answer questions and your track score.
