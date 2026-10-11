@@ -5,3 +5,4 @@ My first Python projects.
 - To-Do List: add, view, and delete tasks.
 - Calculator: add, subtract, multiply, and divide.
 - Quiz App: answer questions and your track score.
+- Expense Tracker: track your spending and see the total.
