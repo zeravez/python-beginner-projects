@@ -6,3 +6,4 @@ My first Python projects.
 - Calculator: add, subtract, multiply, and divide.
 - Quiz App: answer questions and your track score.
 - Expense Tracker: track your spending and see the total.
+- Snake Game: steer the snake, eat the food and avoid the walls.
