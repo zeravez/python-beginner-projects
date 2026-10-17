@@ -7,3 +7,4 @@ My first Python projects.
 - Quiz App: answer questions and your track score.
 - Expense Tracker: track your spending and see the total.
 - Snake Game: steer the snake, eat the food and avoid the walls.
+- Weather App: type a city and see its current temperature.
