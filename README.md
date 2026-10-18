@@ -8,3 +8,4 @@ My first Python projects.
 - Expense Tracker: track your spending and see the total.
 - Snake Game: steer the snake, eat the food and avoid the walls.
 - Weather App: type a city and see its current temperature.
+- Web Scraper: collects book titles and prices from a practice site.
